@@ -1,0 +1,10 @@
+```text
+# Compiled class files
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# VS Code / other IDE configs
+.vscode/
